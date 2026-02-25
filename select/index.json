@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "マインドブランド",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2026-02-25T05:42:52.348642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マインドブランド",
+      "artist": "Maretu",
+      "has_synced": true,
+      "path": "select/01_マインドブランド_Maretu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マインドブランド",
+      "artist": "maretu feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_マインドブランド_maretu_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マインドブランド - Mind brand",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/03_マインドブランド_-_Mind_brand_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mind Brand - マインドブランド",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/04_Mind_Brand_-_マインドブランド_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マインドブランド",
+      "artist": "初音ミク/MARETU",
+      "has_synced": true,
+      "path": "select/05_マインドブランド_初音ミク_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マインドブランド - Mind brand",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/06_マインドブランド_-_Mind_brand_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マインドブランド",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/07_マインドブランド_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マインドブランド",
+      "artist": "25時、ナイトコードで。 (楠木ともり, 田辺留依, 鈴木みのり, 佐藤日向) Feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/08_マインドブランド_25時、ナイトコードで。_(楠木ともり,_田辺留依,_鈴木みのり,_佐藤日向)_Feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マインドブランド (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/pl_01_マインドブランド_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.txt"
+    }
+  ]
+}
